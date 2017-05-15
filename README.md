@@ -1,2 +1,2 @@
 # fpinscala-exercises
-answer for exercises in  &lt;Functional Programming in Scala> 
+answer for exercises in  “***Functional Programming in Scala***”
